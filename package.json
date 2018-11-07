@@ -1,0 +1,27 @@
+{
+  "name": "interfact",
+  "version": "0.0.2",
+  "description": "Interface library for react-native, inspired by the material design concept.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GioB2/interfact.git"
+  },
+  "keywords": [
+    "interface",
+    "react",
+    "native",
+    "factory",
+    "material",
+    "design"
+  ],
+  "author": "Giovanni Pucci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GioB2/interfact/issues"
+  },
+  "homepage": "https://github.com/GioB2/interfact#readme"
+}
